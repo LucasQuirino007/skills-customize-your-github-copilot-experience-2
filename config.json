@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "fastapi-sqlite",
+      "title": "SQLite with FastAPI",
+      "description": "Persisting FastAPI task data with SQLite and SQLAlchemy.",
+      "path": "assignments/fastapi-sqlite",
+      "dueDate": "2026-09-08",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
